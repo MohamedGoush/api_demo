@@ -3,9 +3,9 @@
 class Database
 {
     private $server = "localhost";
-    private $user = "u384900722_upwork";
-    private $password = "Sunwukongjoker7";
-    private $dbName = "u384900722_upwork_db";
+    private $user = "";
+    private $password = "";
+    private $dbName = "";
     private $db;
 
     public function dbConnection()
